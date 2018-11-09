@@ -9,3 +9,4 @@
 - [goland](https://www.jetbrains.com/go/) IDE
 - [gvm](https://github.com/moovweb/gvm) 管理go版本及GOPATH
 - [dep](https://github.com/golang/dep) 包依赖管理
+- [gomodifytags](https://github.com/fatih/gomodifytags) struct tag生成
